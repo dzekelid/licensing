@@ -1,10 +1,10 @@
 title: Streamdata Gallery
-url: template.streamdata.gallery
-tag: Template
+url: licensing.streamdata.gallery
+tag: Licensing
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: template
+github_repo: licensing
 github_branch: master
 collections:
   listings:
